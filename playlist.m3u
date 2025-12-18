@@ -1,0 +1,56 @@
+# --- MOROCCO ---
+
+#EXTINF:-1 tvg-name="Al Aoula" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/8e/Al_Aoula.png",Al Aoula
+https://live.snrt.ma/al_aoula/live.m3u8
+
+#EXTINF:-1 tvg-name="2M" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/32/2M_TV_logo.png",2M
+https://live.2m.ma/2m/live.m3u8
+
+#EXTINF:-1 tvg-name="Arryadia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/73/Arryadia.png",Arryadia
+https://live.snrt.ma/arryadia/live.m3u8
+
+#EXTINF:-1 tvg-name="Athaqafia" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/6b/Athaqafia.png",Athaqafia
+https://live.snrt.ma/athaqafia/live.m3u8
+
+# --- SAUDI ARABIA ---
+
+#EXTINF:-1 tvg-name="Saudi TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9f/Saudi_TV.png",Saudi TV 1
+https://live.sauditv.sa/saudi1/live.m3u8
+
+#EXTINF:-1 tvg-name="Saudi TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9f/Saudi_TV.png",Saudi TV 2
+https://live.sauditv.sa/saudi2/live.m3u8
+
+#EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/45/Al_Ekhbariya.png",Al Ekhbariya
+https://live.sauditv.sa/ekhbaria/live.m3u8
+
+#EXTINF:-1 tvg-name="Quran TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/0/0f/Quran_TV_Saudi.png",Quran TV
+https://live.sauditv.sa/quran/live.m3u8
+
+
+# --- EGYPT ---
+
+#EXTINF:-1 tvg-name="Egyptian Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/25/Egyptian_TV.png",Channel 1
+https://livestreaming.eg/egypt1/live.m3u8
+
+#EXTINF:-1 tvg-name="Egyptian Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/25/Egyptian_TV.png",Channel 2
+https://livestreaming.eg/egypt2/live.m3u8
+
+#EXTINF:-1 tvg-name="Nile Culture" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/79/Nile_TV.png",Nile Culture
+https://livestreaming.eg/nileculture/live.m3u8
+
+
+# --- KIDS (ARABIC) ---
+
+#EXTINF:-1 tvg-name="MBC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/5c/MBC3_Logo.png",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/mbc3.m3u8
+
+#EXTINF:-1 tvg-name="Spacetoon" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/4e/Spacetoon_logo.png",Spacetoon
+https://stream.spacetoon.com/live.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cartoon_Network_Arabic_logo.png",Cartoon Network Arabic
+https://cnarabia-live.akamaized.net/linear.m3u8
+
+#EXTINF:-1 tvg-name="Majid Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/78/Majid_TV.png",Majid Kids
+https://admedia-live.akamaized.net/majid/live.m3u8
+
+
