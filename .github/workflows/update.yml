@@ -1,0 +1,27 @@
+name: Update IPTV Streams
+
+on:
+  schedule:
+    - cron: "0 3 * * 1" # chaque lundi
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Validate M3U links
+        run: |
+          sudo apt install curl -y
+          grep -E "^http" playlist.m3u | while read url; do
+            curl -Is --max-time 10 "$url" | head -n 1
+          done
+
+      - name: Commit if needed
+        run: |
+          git config --global user.name "IPTV Bot"
+          git config --global user.email "bot@github.com"
+          git commit -am "Auto-check streams" || echo "No changes"
+          git push
+
