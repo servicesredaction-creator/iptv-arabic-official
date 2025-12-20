@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:61,Spacetoon.m3u8
+#EXTINF:61,Spacetoon
 #EXTVLCOPT:network-caching=1000
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:61,Majid.m3u8
+#EXTINF:61,Majid
 #EXTVLCOPT:network-caching=1000
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:21605,2M Monde
@@ -175,3 +175,4 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:15,ICI Montreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+
