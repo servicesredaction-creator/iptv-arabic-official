@@ -1,10 +1,16 @@
 #EXTM3U
-#EXTINF:61,Spacetoon
+#EXTINF:21595,maaloula.php?m3u8
 #EXTVLCOPT:network-caching=1000
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-#EXTINF:61,Majid
+https://xddrts.alwaysdata.net/maroo00/maaloula.php?m3u8
+#EXTINF:21593,malaayoune.php?m3u8
 #EXTVLCOPT:network-caching=1000
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+https://oppomu.serv00.net/maroo00/malaayoune.php?m3u8
+#EXTINF:21595,maarrytnt.php?m3u8 
+#EXTVLCOPT:network-caching=1000
+https://cdnet.alwaysdata.net/maroo00/maarrytnt.php?m3u8%20
+#EXTINF:21596,maarry.php?m3u8
+#EXTVLCOPT:network-caching=1000
+https://oppomu.serv00.net/maroo00/maarry.php?m3u8
 #EXTINF:21605,2M Monde
 #EXTVLCOPT:http-referrer=http://www.radio2m.ma/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0
@@ -15,6 +21,12 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
 #EXTINF:40,Medi 1 TV Maghreb (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
+#EXTINF:61,Spacetoon.m3u8
+#EXTVLCOPT:network-caching=1000
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
+#EXTINF:61,Majid.m3u8
+#EXTVLCOPT:network-caching=1000
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
 #EXTINF:60,Al Jazeera https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:60,Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
@@ -76,12 +88,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:14400,CNEWS - x3b68jn.m3u8?sec=41bjCWjMRIzmbLEC4xPYc0RjvocKz2Xmoh53xc7IPW_hdLWzYjUORW2Le9iuuDad3dl7xp4n_enZ1G4OMbx1cg&dmTs=389139&dmV1st=8101fa2e-7118-4856-86fe-8f0be09fe349
 https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=41bjCWjMRIzmbLEC4xPYc0RjvocKz2Xmoh53xc7IPW_hdLWzYjUORW2Le9iuuDad3dl7xp4n_enZ1G4OMbx1cg&dmTs=389139&dmV1st=8101fa2e-7118-4856-86fe-8f0be09fe349
-#EXTINF:30,franceinfo - franceinfo - DIRECT TV - actualit  France et monde, interviews, documentaires et analyses
+#EXTINF:30,franceinfo - franceinfo - DIRECT TV - actualité France et monde, interviews, documentaires et analyses
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766268141/ei/jchGac_TMfiF0u8PvenwiAs/ip/160.178.60.221/id/Z-Nwo-ypKtM.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ma/bui/AYUSA3Dq--QHgWorK17g3nxLRxMnLAVCFAmP3sTp8O6oCdUVz0OtTenLL5g1esM2i22guktSlzsyxi8D/spc/wH4Qq7gG0ELelfwFc0JdjP8MbaN2u6Hsm4vh1koZsIYS_SaZCpri6gCAr_cd7h27CKI/vprv/1/go/1/ns/eKuE0I6cdqpwOqEHznr5pl4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/H_wvzxAFJIZdtJOQFV/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgLFaSKOSb337M5VZc6NB3rhhJNljvj-31UB03VHiyXv4CIHd0b0vYLwCUCBbcRyul7H6g-lG2ROAnylXZVmSm7Onm/file/index.m3u8
 #EXTINF:30,FRANCE 24 - FRANCE 24 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766268146/ei/kshGacH8KZOF0u8Pq4zz0AU/ip/160.178.60.221/id/l8PMl7tUDIE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DJlew6ymPLdrtnE7B0YgrvCNC2xolhExQwiOwjWeqxKL3iWj7PEs8rjmXzQoNpPvdst5WEj0Mq/spc/wH4Qqz6TODFuqTGlcmz24XifchJwV3PIP6a5nclyrGBcphPtLoxycKzSOg8kmDTsu3A/vprv/1/go/1/ns/jC1C9cNi1d1OW4l4_EjXydMR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/iAXiCRRyAp139LV6oc/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMT1nj1Q8psjkhZXndhTMqkuaQKfVJNM4RarC0282QYWAiAijSL1GGwV1ZuBH92zha5VEtbuxKnGb6Wc4Dfe47EXuw%3D%3D/file/index.m3u8
-#EXTINF:30,euronews (en fran ais) - Euronews fran ais en direct
+#EXTINF:30,euronews (en français) - Euronews français en direct
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766268152/ei/mMhGaeSvE5iy0u8PqfDNgQg/ip/160.178.60.221/id/NiRIbKwAejk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DbuOma7J_5qlcJBdPVazosGCbYCF3di54SlVYmht-DEEtmVbbsAGSb5ggWmoNVLITY3_Or9x2O/spc/wH4Qq3wYSi536jBQSA_zGMVc5Rr2i7mJziwZERAkUpLYERo4lcoLE2_fZ3MX0w_dkf0/vprv/1/go/1/ns/kzgpkSqomrHKA9QusiRFSzsR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/w1UwgG-npaod0gLjpz/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP0LTReim_Bn_vnyEqUQMaCcJjXiLLq6UzZHMT-KOBA6AiBaJBAokq9e5h_MLVYKiX0njhkmQWg9ciHl3ovbVNvz9w%3D%3D/file/index.m3u8
-#EXTINF:30,africanews (en fran ais) - Africanews fran ais en direct - Info et actualit s en continu
+#EXTINF:30,africanews (en français) - Africanews français en direct - Info et actualités en continu
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1766268166/ei/pshGae-vNZeD0u8PodHjoQ0/ip/160.178.60.221/id/b6R9-7KZ8YM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3ArIZwVaf255MWwLG-v1bsJ1ELdzQw6CEMqFuwXsqCvP30Gsy1Q9OhvIKC8_v8q1Ee7oNbnGPkD/spc/wH4Qq_WYycxXcF7SYqpL6bOVlj5z-bX-pRhosZyEAkWl5XaXOsb3-G3WFJBvEniOqbw/vprv/1/go/1/ns/2YAXwnpIgS4Cw_fjUrsw_ekR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/0v43DtHJGmXxCeqITd/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIge3A38HmJXeHbJxioZKbxLj3mLFBGwfCJI-dQ-UYfDz8CICruOM-7tC1F8euGPkFfc8gVlNxPOemJkJHq_IVhS0cg/file/index.m3u8
 #EXTINF:60,TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
@@ -160,7 +172,7 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:300,https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:32,ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:376,Savoir M dia
+#EXTINF:376,Savoir Média
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:15,ICI Montreal
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
